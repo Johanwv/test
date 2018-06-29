@@ -4,7 +4,7 @@ public class Customer
 {
     private String firstName;
 
-    private String lastName;
+    private String lastName2;
 
     private int age;
 
