@@ -4,7 +4,7 @@ public class Customer
 {
     private String firstName;
 
-    private String lastName2;
+    private String lastName;
 
     private int age;
 
@@ -33,8 +33,4 @@ public class Customer
         return age;
     }
 
-    public void setAge(int age)
-    {
-        this.age = age + 2;
-    }
 }
