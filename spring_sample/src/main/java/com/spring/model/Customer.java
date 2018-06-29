@@ -6,7 +6,7 @@ public class Customer
 
     private String lastName;
 
-    private int age;
+    private int ageTest;
 
     public String getFirstName()
     {
